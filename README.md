@@ -81,27 +81,6 @@ Python | XGBoost | LightGBM | SHAP | scikit-learn | pandas | matplotlib
 
 ---
 
-## Repository Structure
-
-```
-insurance-loss-analytics/
-├── README.md
-├── notebooks/
-│   ├── Data_cleaning_and_EDA.ipynb       # Jessica & Ryan
-│   ├── Regression_Models.ipynb            # Bobby
-│   ├── Classification_Model.ipynb         # Anna
-│   └── SHAP_Analysis_and_Prediction.ipynb # Kiki
-├── outputs/
-│   ├── shap_CS_summary.png
-│   ├── shap_LC_summary.png
-│   ├── shap_HALC_summary.png
-│   └── shap_LC_HALC_bar.png
-└── report/
-    └── Group_5_report.pdf
-```
-
----
-
 ## Business Recommendations
 
 1. **Incorporate behavioral signals** — cancellation ratio and renewal timing should be standard inputs in underwriting decisions
